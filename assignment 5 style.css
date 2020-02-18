@@ -66,15 +66,10 @@ a img{
     background-color: #7a991a;
 }
 
-}
 
 #footer {
     color: #59947c;
     font-family: Georgia, "Times New Roman", serif;
     font-size: 0.8em;
     border-top: 1px solid black;
-}
-
-img {
-	border: none;
 }
