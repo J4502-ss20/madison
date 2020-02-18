@@ -29,7 +29,8 @@ a img{
 }
 
 #header{
-	color: black;
+	color: #303333;
+	display: block;
 	font-family: 'Oswald', 'Roboto Condensed', sans-serif;
 	font-size: 0.8em;
 	border-top: 1px solid white;
