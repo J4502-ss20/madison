@@ -61,7 +61,7 @@ a img{
     text-align:center;
     text-decoration: none;
     padding: 4px;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'PT Serif', serif;
 }
 
 #nav a:hover, #nav a:active {
@@ -71,7 +71,7 @@ a img{
 
 #footer {
     color: #59947c;
-    font-family: Georgia, "Times New Roman", serif;
+    font-family: 'PT Serif', serif;
     font-size: 0.8em;
     border-top: 1px solid black;
 }
